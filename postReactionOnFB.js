@@ -1,4 +1,5 @@
 //post Reaction On facebook first post
+//Vist facebook website, open console and paste this code for testing...
 function ttstamp(c) {
 	var w = '',
 		ttstp, fb_dtsg = c;
