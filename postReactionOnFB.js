@@ -1,3 +1,4 @@
+//post Reaction On facebook first post
 function ttstamp(c) {
 	var w = '',
 		ttstp, fb_dtsg = c;
